@@ -1,4 +1,5 @@
 this is created in master branch too
+edit by feature/1 branch 2
 edit by feature/1 branch 1
 edit by feature/1 branch 2
 edit by master branch 1
